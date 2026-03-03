@@ -1,0 +1,2 @@
+onnx_mean,yolo_mean,t_statistic,p_value_one_sided(H1: onnx < yolo),reject_H0_p<0.05
+48.72676076650774,47.8515549666675,1.473729581248159,0.9289014192171278,False
